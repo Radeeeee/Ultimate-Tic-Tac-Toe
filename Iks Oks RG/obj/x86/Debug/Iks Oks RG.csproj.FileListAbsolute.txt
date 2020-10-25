@@ -1,0 +1,20 @@
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\bin\Debug\Iks Oks RG.exe
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\bin\Debug\Iks Oks RG.pdb
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.Properties.Resources.resources
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.csproj.GenerateResource.Cache
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.exe
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.pdb
+c:\users\rade\documents\visual studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.mainForm.resources
+C:\Users\Rade\Documents\Visual Studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.csprojResolveAssemblyReference.cache
+C:\Users\Rade\Documents\Visual Studio 2010\Projects\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.WelcomeForm.resources
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.exe
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.pdb
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\bin\Debug\Iks Oks RG.exe
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\bin\Debug\Iks Oks RG.pdb
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.csprojResolveAssemblyReference.cache
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.mainForm.resources
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.Properties.Resources.resources
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks_Oks_RG.WelcomeForm.resources
+C:\Users\Rade\Desktop\New folder\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.csproj.GenerateResource.Cache
+C:\Users\Rade\Desktop\Rade_Radovanovic_1620_IksOks_8_računarska_grafika\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.exe
+C:\Users\Rade\Desktop\Rade_Radovanovic_1620_IksOks_8_računarska_grafika\Iks Oks RG\Iks Oks RG\obj\x86\Debug\Iks Oks RG.pdb
